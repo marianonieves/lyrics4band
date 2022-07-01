@@ -6,10 +6,10 @@ module.exports = function (context, req) {
     context.log('>>>> Twitter test processed a request.');
 
     client = new TwitterApi({
-        appKey: '<>',
-        appSecret: '<>',
-        accessToken: '<>',
-        accessSecret: '<>'
+        appKey: process.env.twitter_consumer_key,
+        appSecret: process.env.twitter_consumer_secret,
+        accessToken: process.env.twitter_access_token,
+        accessSecret: process.env.twitter_access_token_secret,
     });
 
     context.log('>>>> hace el post ' );
