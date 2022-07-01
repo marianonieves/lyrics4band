@@ -1,6 +1,6 @@
 # lyrics4band
 twitter app lyrics4band 
-
+<pre>
 Open the KUDU console 
   https://lyrics4band.scm.azurewebsites.net/DebugConsole
 and go to the root of your function
@@ -11,3 +11,4 @@ run the command
 
 
 based on the article: https://dev.to/codesphere/using-the-twitter-api-with-nodejs-4p3c
+</pre>
