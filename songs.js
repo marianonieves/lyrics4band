@@ -86,7 +86,15 @@ this.lyrics = [
 "Caen en el suelo, muerte ya no hay",
 "Cae muerto, rueda y se vuelve a levantar",
 "En sus dedos veo sus deseos explotar",
-"Entre sombras paso a paso busca un lugar que las olas den a sus recuerdos un final"
+"Entre sombras paso a paso busca un lugar que las olas den a sus recuerdos un final",
+"Armamos nuestro propio ser, rodeados de personas que no saben ver",
+"Ahora todo vuelve a arder y nadie nos enseña a ser, ¿cómo se supone que tengo que hacer? ¿Cómo saber?",
+"El aire sabe cuando soplar, El fuego sabe arder, El agua purifica Y nuestro amor se ve",
+"Corremos para no volver a ser aquellos que una vez quisimos ser",
+"Soñando que todo está bien pero siempre se vuelve a caer",
+"De las llamas diamantes volvimos a ser",
+"Esto fue el paraíso y hoy lo veo arder pero de las cenizas todo vuelve a crecer",
+"Si el amor salva al mundo todo va a estar bien, Nuestro amor se ve"  
 ];
 
 this.hashtags = " #LaFlorida #LAFLO #NeoSoul #NeoSoulLatino";
